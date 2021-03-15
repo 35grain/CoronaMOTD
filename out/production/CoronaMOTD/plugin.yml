@@ -1,0 +1,11 @@
+name: CoronaMOTD
+version: 1.1
+author: Richard A.
+main: ee.richard.CoronaMOTD.CoronaMOTD
+api-version: 1.16
+commands:
+  corona:
+    description: Displays the latest data for the total number of new daily cases
+    usage: /corona
+    permission: coronaMOTD.corona
+ 
